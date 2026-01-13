@@ -1,0 +1,55 @@
+.nav-colour{
+   background-color: rgba(235, 162, 3, 0.783);
+}
+.colur{
+    color: black;
+}
+.nav-link:hover{
+    background-color: rgb(217, 225, 195);
+    
+
+}
+.carousel-item{
+    /* height: 600px; */
+}
+.pro{
+    position: relative;
+}
+.pro .love{
+    position: absolute;
+    top: 10px;
+    left: 88%;
+    color: rgb(230, 22, 7);
+}
+.love :hover{
+    color: rgb(255, 4, 4);
+    transform: scale(2);
+}
+.clock{
+    display: flex;
+
+}
+.no{
+    position: relative;
+    background-color: rgba(228, 212, 190, 0.943);
+    border-radius:10px;
+   
+}
+.pro .no{
+    position: absolute;
+    top: 10px;
+    left: 2%;
+    font-size: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3px 3px;
+}
+.h :hover{
+    background-color: antiquewhite;
+}
+.f-link ul li{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+}
